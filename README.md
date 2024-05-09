@@ -4,7 +4,7 @@ Language detection is a fundamental task in natural language processing (NLP) th
 
 ## Dataset:
 Download the dataset using the link below:
-https://www.kaggle.com/basilb2s/language-detection
+[Language Detection Dataset](https://www.kaggle.com/basilb2s/language-detection)
 
 ## Features:
 * NLP Techniques: Utilizes various NLP techniques such as tokenization, word embeddings, and machine learning algorithms for language detection.
@@ -14,9 +14,13 @@ https://www.kaggle.com/basilb2s/language-detection
 ## Getting Started:
 To get started with language detection using this repository, follow these steps:
 
-* Clone the Repository: Clone this repository to your local machine using git clone.
+* Clone the Repository: Clone this repository to your local machine using `git clone`
 * Install Dependencies: Refer to **requirements.txt.**
-* Run the Application: Execute the language detection application using python app.py.
+
+ ### Running the Application: 
+Execute the application using Streamlit.
+* Install Streamlit using: [Streamlit Installation Guide](https://docs.streamlit.io/get-started/installation/command-line)
+* Run the application: `streamlit run app.py` or `python -m streamlit run app.py`
 
 ## Usage:
 Once the application is running, input your text and click the "Detect Language" button to determine the language of the text.
