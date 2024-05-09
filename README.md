@@ -14,5 +14,5 @@ To get started with language detection using this repository, follow these steps
 * Install Dependencies: Refer to requirements.txt.
 * Run the Application: Execute the language detection application using python app.py.
 
-Usage:
+## Usage:
 Once the application is running, input your text and click the "Detect Language" button to determine the language of the text.
