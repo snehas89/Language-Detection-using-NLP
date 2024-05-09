@@ -2,6 +2,10 @@
 
 Language detection is a fundamental task in natural language processing (NLP) that involves identifying the language of a given text. This repository contains code for building a language detection model using NLP techniques.
 
+## Dataset:
+Download the dataset using the link below:
+https://www.kaggle.com/basilb2s/language-detection
+
 ## Features:
 * NLP Techniques: Utilizes various NLP techniques such as tokenization, word embeddings, and machine learning algorithms for language detection.
 * Multilingual Support: Capable of detecting multiple languages, making it suitable for applications dealing with multilingual text data.
