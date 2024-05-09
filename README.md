@@ -11,7 +11,7 @@ Language detection is a fundamental task in natural language processing (NLP) th
 To get started with language detection using this repository, follow these steps:
 
 * Clone the Repository: Clone this repository to your local machine using git clone.
-* Install Dependencies: Refer to requirements.txt.
+* Install Dependencies: Refer to **requirements.txt.**
 * Run the Application: Execute the language detection application using python app.py.
 
 ## Usage:
